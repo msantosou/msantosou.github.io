@@ -1,13 +1,16 @@
-# msantosou.github.io
+<html>
+  <head>
+    <title>My Homepage README</title>
+  </head>
 
-This is my second try at github!
 
-My Github user page is at: 
-https://gitub.com/msantosou/
+  <body>
+    <h1>My homepage!</h1>
+    
+    <h2>
+        ;)
+    </h2>
 
-My Github Pages repo can be found at:
-https://github.com/msantosou/msantosou.github.io/
+  </body>
+</html>
 
-And, soon, you can see my customized homepage at:
-
-http://msantosou.github.io/
